@@ -16,7 +16,7 @@ Estudo na Firjan SESI SENAI e desenvolvo projetos que conectam sensores, microco
 | **Sistema Inteligente de Cultivo de Abacate** | Protótipo com ESP32 que monitora a umidade do solo e aciona automaticamente uma bomba por relé. As leituras e o estado da irrigação aparecem no LCD e no aplicativo. |
 | **Sistema de Fogo** | Projeto desenvolvido com Arduino, C++ e HTML. |
 
-[Conheça o Necton Sentinela](https://nectonsentinela.com) · [Veja a demonstração do sistema de irrigação](https://youtu.be/M715lY4NxA8)
+ [Veja a demonstração do sistema de irrigação](https://youtu.be/M715lY4NxA8)
 
 ---
 
