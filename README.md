@@ -1,44 +1,89 @@
-# Olá, eu sou Kayke Moreira de Carvalho 👋
 
-**Estudante do curso técnico em Internet das Coisas (IoT) | Sistemas embarcados, automação e desenvolvimento web**  
-📍 Rio de Janeiro – RJ
+<h1 align="center">Kayke Moreira de Carvalho</h1>
 
-Estudo na Firjan SESI SENAI e desenvolvo projetos que conectam sensores, microcontroladores e interfaces web. Tenho interesse em Engenharia de Computação e busco minha primeira oportunidade profissional em tecnologia.
+<h3 align="center">
+Internet das Coisas | Automação Industrial | Desenvolvimento de Software
+</h3>
 
----
-
-## 🚀 Projetos em destaque
-
-| Projeto | O que desenvolvi |
-| --- | --- |
-| **Necton Sentinela** | Aplicação web para apoiar o registro de informações de GRO e PGR, voltada a técnicos em segurança do trabalho. |
-| **Nomaré** | Projeto de aplicação web. |
-| **Sistema Inteligente de Cultivo de Abacate** | Protótipo com ESP32 que monitora a umidade do solo e aciona automaticamente uma bomba por relé. As leituras e o estado da irrigação aparecem no LCD e no aplicativo. |
-
-
- [Veja a demonstração do sistema de irrigação](https://youtu.be/M715lY4NxA8)
+<p align="center">
+  <a href="Linkedin.com/in/kaykemoreiradc">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
+## 👨‍💻 Sobre mim
 
-### IoT e sistemas embarcados
+Técnico em Internet das Coisas (IoT) em formação pela
+Firjan SESI SENAI, com conhecimentos em desenvolvimento
+de sistemas, eletrônica, automação industrial,
+sistemas embarcados e redes de computadores.
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
+Possuo experiência prática em projetos acadêmicos e
+independentes, envolvendo a integração entre hardware
+e software, programação de microcontroladores,
+bancos de dados e sistemas automatizados.
+
+Busco constantemente aprimorar meus conhecimentos
+e desenvolver soluções tecnológicas para problemas reais.
+
+- 📍 Rio de Janeiro – RJ, Brasil
+- 🎓 Formação técnica em Internet das Coisas
+- 📚 Pretendo cursar Engenharia de Computação
+- 🌐 Inglês intermediário
+- 💼 Em busca da primeira oportunidade profissional
+
+---
+
+## 💻 Programação e desenvolvimento
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,php,mysql"/>
+</p>
+
+---
+
+## ⚙️ Eletrônica e automação
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=arduino"/>
+</p>
+
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Siemens](https://img.shields.io/badge/Siemens_S7--1200-009999?style=for-the-badge)
+![CLP](https://img.shields.io/badge/CLP-004080?style=for-the-badge)
+![Ladder](https://img.shields.io/badge/Ladder-00599C?style=for-the-badge)
+![IoT](https://img.shields.io/badge/IoT-0078D4?style=for-the-badge)
 
-### Desenvolvimento web e banco de dados
+---
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+## 🌐 Redes de computadores
 
-### Redes e eletrônica
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-00599C?style=for-the-badge)
+![IPv4](https://img.shields.io/badge/IPv4-0078D4?style=for-the-badge)
+![IPv6](https://img.shields.io/badge/IPv6-0078D4?style=for-the-badge)
+![DHCP](https://img.shields.io/badge/DHCP-333333?style=for-the-badge)
+![DNS](https://img.shields.io/badge/DNS-333333?style=for-the-badge)
+![ARP](https://img.shields.io/badge/ARP-333333?style=for-the-badge)
 
-- Configuração de roteadores, endereçamento IPv4 e IPv6 e fundamentos de TCP/IP, DHCP e DNS.
-- Montagem de protótipos com sensores, relés e displays LCD.
+---
 
-<!-- Adicione seus links de contato e gráficos do GitHub aqui quando tiver os endereços. -->
+## 🛠️ Ferramentas e plataformas
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase"/>
+</p>
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Word](https://img.shields.io/badge/Word-185ABD?style=for-the-badge&logo=microsoftword&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
+</p>
