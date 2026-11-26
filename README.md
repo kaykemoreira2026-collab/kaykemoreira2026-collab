@@ -6,7 +6,7 @@ Internet das Coisas | Automação Industrial | Desenvolvimento de Software
 </h3>
 
 <p align="center">
-  <a href="Linkedin.com/in/kaykemoreiradc">
+  <a href="https://www.linkedin.com/in/kaykemoreiradc">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
