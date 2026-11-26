@@ -14,7 +14,7 @@ Estudo na Firjan SESI SENAI e desenvolvo projetos que conectam sensores, microco
 | **Necton Sentinela** | Aplicação web para apoiar o registro de informações de GRO e PGR, voltada a técnicos em segurança do trabalho. |
 | **Nomaré** | Projeto de aplicação web. |
 | **Sistema Inteligente de Cultivo de Abacate** | Protótipo com ESP32 que monitora a umidade do solo e aciona automaticamente uma bomba por relé. As leituras e o estado da irrigação aparecem no LCD e no aplicativo. |
-| **Sistema de Fogo** | Projeto desenvolvido com Arduino, C++ e HTML. |
+
 
  [Veja a demonstração do sistema de irrigação](https://youtu.be/M715lY4NxA8)
 
