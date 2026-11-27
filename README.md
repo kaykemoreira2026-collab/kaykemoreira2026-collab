@@ -39,7 +39,7 @@ e desenvolver soluções tecnológicas para problemas reais.
 ## 💻 Programação e desenvolvimento
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,php,mysql"/>
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,mysql"/>
 </p>
 
 ---
